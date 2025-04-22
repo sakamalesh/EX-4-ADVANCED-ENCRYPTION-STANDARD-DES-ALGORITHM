@@ -64,7 +64,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/731c1c62-7991-4c56-bd12-2d9fbe44b7fc)
+![image](https://github.com/user-attachments/assets/3a284791-1ece-48a6-9503-b8ab6bb2b7ea)
 
 ## RESULT: 
 The program executed successfully.
